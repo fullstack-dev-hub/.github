@@ -1,8 +1,10 @@
+---
 name: 기능 요청
 description: 새로운 기능 또는 개선 사항을 제안해주세요.
 title: "[Feature] "
 labels: ["enhancement"]
 assignees: ""
+---
 
 ## 🚀 기능 설명
 > 추가하고 싶은 기능을 간략하게 설명해주세요.
