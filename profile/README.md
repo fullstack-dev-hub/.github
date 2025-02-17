@@ -1,9 +1,12 @@
 ## FullStack Dev Hub
 
 ### 🙋‍♀️ Member<br>
+#### Frontend
 - [hardlife0](https://github.com/hardlife0)
-- [Ella.oh](https://github.com/rimeir)
 - [Daeun Lee](https://github.com/LEE-DA-EUN)
+
+#### Backend
+- [Ella.oh](https://github.com/rimeir)
 - [SungMin Lee](https://github.com/Etwashoeren)
 
 ### 🧙 Projects
