@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 질문 및 기타 문의
+    url: https://github.com/orgs/your-org/discussions
+    about: 버그 리포트가 아닌 경우 Discussions를 이용해주세요.
