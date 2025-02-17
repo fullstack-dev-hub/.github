@@ -1,6 +1,6 @@
 ---
 name: 버그 리포트
-description: 발생한 버그를 알려주세요.
+about: 발생한 버그를 알려주세요.
 title: "[BUG] "
 labels: ["bug"]
 assignees: ""
