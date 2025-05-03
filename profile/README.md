@@ -6,7 +6,7 @@
 - [Daeun Lee](https://github.com/LEE-DA-EUN)
 
 #### Backend
-- [Ella.oh](https://github.com/rimeir)
+- [Jiyoung Oh](https://github.com/rimeir)
 - [SungMin Lee](https://github.com/Etwashoeren)
 
 ### 🧙 Projects
